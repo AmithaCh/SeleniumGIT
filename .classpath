@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/selenium-server-standalone-3.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/selenium-htmlunit-driver-2.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/POI/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-jars/freemarker-2.3.28.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
