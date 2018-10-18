@@ -8,9 +8,12 @@ public class SeleniumLocators {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		System.setProperty("webdriver.chrome.driver","E:\\Selenium prerequistes\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com/");
+		
+		//Selenium locators examples
 		driver.findElement(By.id("q")).click();
 		driver.findElement(By.name("q")).click();
 		driver.findElement(By.className("q"));
